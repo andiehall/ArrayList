@@ -32,6 +32,7 @@ public class ProgramRunner
 					{	
 					System.out.println( TVShows.get(i).getTitle() + " " + TVShows.get(i).getGenre() + " " + TVShows.get(i).getNumberofSeasonsAired());
 					}
+				System.out.println(" ");
 			}
 		
 		public static void addSeason()
